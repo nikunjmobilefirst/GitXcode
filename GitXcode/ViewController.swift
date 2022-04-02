@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    //A simple comment
+    //A simple comment, for merge conflict
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
